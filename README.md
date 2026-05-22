@@ -16,6 +16,21 @@ API RESTful desenvolvida com Java e Spring Boot para gerenciamento de uma **Plat
 
 ---
 
+## 🛠 Tecnologias Utilizadas
+
+| Tecnologia |
+|------------|
+| Java |
+| Spring Boot |
+| Spring Data JPA |
+| Hibernate |
+| PostgreSQL |
+| Maven |
+| Springdoc OpenAPI (Swagger) |
+| Bean Validation |
+
+---
+
 ## 📁 Estrutura de Pacotes
 
 ```
