@@ -92,8 +92,10 @@ mvn spring-boot:run
 ```
 http://localhost:8080/swagger-ui.html
 ```
-
+### Imagens comprovando a conexão com o Swagger
 ---
+
+<img width="1359" height="633" alt="Image" src="https://github.com/user-attachments/assets/12981ae3-fb35-49b9-bc6f-b19d8aca028b" />
 
 ## 📡 Exemplos de Endpoints
 
